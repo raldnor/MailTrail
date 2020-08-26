@@ -2,6 +2,8 @@
 
 A simple script to check mail messages. Does some basic lookups.
 
+A portable Windows release can be downloaded here: https://github.com/raldnor/MailTrail/releases
+
 ## Installation:
 Create a virtual environment in the same directory where MailTrail is located:
 ```
